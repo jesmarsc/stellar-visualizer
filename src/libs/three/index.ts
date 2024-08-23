@@ -1,11 +1,4 @@
-import {
-  BufferAttribute,
-  BufferGeometry,
-  CubeTextureLoader,
-  Points,
-  PointsMaterial,
-  Vector2,
-} from "three";
+import { CubeTextureLoader, Vector2 } from "three";
 
 import { UnrealBloomPass } from "three/examples/jsm/postprocessing/UnrealBloomPass.js";
 
