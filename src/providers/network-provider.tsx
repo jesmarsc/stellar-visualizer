@@ -1,5 +1,5 @@
 import { createContext } from "@/utils/create-context";
-import { useGetNetwork } from "@/api/stellar-beat/get-network";
+// import { useGetNetwork } from "@/api/stellar-beat/get-network";
 
 import { NetworkStore } from "@/stores/network-store";
 
